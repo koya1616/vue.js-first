@@ -1,4 +1,4 @@
-https://qiita.com/tatsurou313/items/4f18c0d4d231e2fb55f4#%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E6%96%B0%E8%A6%8F%E4%BD%9C%E6%88%90%E3%81%8C%E5%87%BA%E6%9D%A5%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B
+https://qiita.com/tatsurou313/items/4f18c0d4d231e2fb55f4#backend-%E5%81%B4%E3%81%AB%E3%83%A2%E3%83%87%E3%83%AB%E6%9B%B4%E6%96%B0%E7%94%A8-api-%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B
 
 【Rails】lock_versionを使って排他制御(楽観ロック)を行う方法
 https://pote-chil.com/rails_optimistic/
